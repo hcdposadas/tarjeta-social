@@ -1,0 +1,12 @@
+{
+    "name": "hcd/tarjeta-social",
+    "authors": [
+        {
+            "name": "Matias Solis de la Torre",
+            "email": "matias.delatorre89@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
